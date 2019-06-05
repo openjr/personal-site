@@ -1,0 +1,12 @@
+languageCode = "en-us"
+title = "Jorge Rodriguez"
+theme = "m10c"
+paginate = 5
+
+[params]
+    author = "Jorge A. Rodriguez"
+    description = "Developer, always poking code/infra and anything that can be interesting."
+
+    [[ params.social ]]
+        name = "twitter"
+        url = "https://twitter.com/red_totorito"
