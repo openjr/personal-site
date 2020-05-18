@@ -3,6 +3,8 @@ title = "Jorge Rodriguez"
 theme = "m10c"
 paginate = 5
 BaseURL = "/"
+enableEmoji=true
+enableRobotsTXT=true
 
 [params]
     author = "Jorge A. Rodriguez"
